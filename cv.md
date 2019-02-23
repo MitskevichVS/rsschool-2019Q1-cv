@@ -19,4 +19,4 @@ Rolling Scopes school;
 - Bachelor degree: Belorusian State University of Informatics and Radioelectronics, Radioelectronics facility, Radioelectonics systems.
 - Masters degree: Belorusian State University of Informatics and Radioelectronics, Radioelectonics faculty, Radio engineering, including systems and devices for radio navigation, location and television.
 ###English level:###
-Pre-intermediate.
+Pre-intermediate.# rsschool-2019Q1-cv
