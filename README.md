@@ -1,1 +1,1 @@
-https://MitskevichVS.github.io/rsschool-2019Q1-cv/cv.md# rsschool-2019Q1-cv
+https://MitskevichVS.github.io/rsschool-2019Q1-cv/cv.md
