@@ -1,22 +1,22 @@
-#Victor Mitskevich#
-###Contacts:###
+# Victor Mitskevich #
+### Contacts: ###
 - Mobile: +375 29 687 89 60;
 - E-mail: <mv2.mx@yandex.ru>;
 - Skype:  vitya_mitskevich;
 - Telegram: avalible;
-###Summary:
+### Summary: ###
 >My main goal at the moment is to learn newest technologies and tools for working as a developer.  As a junior web developer i'm ready to compete, work overtime, work on mistakes and learn from expirience.
-###Skills:###
+### Skills: ###
 - HTML 5
 - CSS 4
 - Javaskript
 - Vector graphics(CorelDraw);
-###Code examples:###
+### Code examples: ###
 <https://github.com/MitskevichVS>;
-###Expirience:###
+### Expirience: ###
 Rolling Scopes school;
-###Education:###
+### Education: ###
 - Bachelor degree: Belorusian State University of Informatics and Radioelectronics, Radioelectronics facility, Radioelectonics systems.
 - Masters degree: Belorusian State University of Informatics and Radioelectronics, Radioelectonics faculty, Radio engineering, including systems and devices for radio navigation, location and television.
-###English level:###
-Pre-intermediate.# rsschool-2019Q1-cv
+### English level: ###
+Pre-intermediate.
